@@ -37,32 +37,34 @@ If you are wanting to download from github, click on the green button that says 
 
 <img width="466" alt="Screenshot 2022-11-18 at 16 14 19" src="https://user-images.githubusercontent.com/62378859/202751302-1e47ada5-166e-44eb-96d1-aa2ca820e0dd.png">
 
+# Information on Datasets
 
+## Cereal Dataset
 
-Name: Name of cereal
-mfr: Manufacturer of cereal
-A = American Home Food Products;
-G = General Mills
-K = Kelloggs
-N = Nabisco
-P = Post
-Q = Quaker Oats
-R = Ralston Purina
-type:
-cold
-hot
-calories: calories per serving
-protein: grams of protein
-fat: grams of fat
-sodium: milligrams of sodium
-fiber: grams of dietary fiber
-carbo: grams of complex carbohydrates
-sugars: grams of sugars
-potass: milligrams of potassium
-vitamins: vitamins and minerals - 0, 25, or 100, indicating the typical percentage of FDA recommended
-shelf: display shelf (1, 2, or 3, counting from the floor)
-weight: weight in ounces of one serving
-cups: number of cups in one serving
-rating: a rating of the cereals (Possibly from Consumer Reports?)
+- Name: Name of cereal
+- mfr: Manufacturer of cereal
+    - A = American Home Food Products;
+    - G = General Mills
+    - K = Kelloggs
+    - N = Nabisco
+    - P = Post
+    - Q = Quaker Oats
+    - R = Ralston Purina
+- type:
+    - cold
+    - hot
+- calories: calories per serving
+- protein: grams of protein
+- fat: grams of fat
+- sodium: milligrams of sodium
+- fiber: grams of dietary fiber
+- carbo: grams of complex carbohydrates
+- sugars: grams of sugars
+- potass: milligrams of potassium
+- vitamins: vitamins and minerals - 0, 25, or 100, indicating the typical percentage of FDA recommended
+- shelf: display shelf (1, 2, or 3, counting from the floor)
+- weight: weight in ounces of one serving
+- cups: number of cups in one serving
+- rating: a rating of the cereals (Possibly from Consumer Reports?)
 
 
